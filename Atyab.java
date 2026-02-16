@@ -1,7 +1,12 @@
 public class Atyab {
     public static void main(String[] args) {
-        for (String currArg: args) {
+        /*for (String currArg: args) {
             System.out.println(currArg);
+        }*/
+
+        for (int count = 0;count < 5;count++){
+            System.out.printf("Loop %d\n", count);
+
         }
     }
 }
