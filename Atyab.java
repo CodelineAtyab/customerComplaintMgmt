@@ -4,8 +4,8 @@ public class Atyab {
             System.out.println(currArg);
         }*/
 
-        for (int count = 0;count < 5;count++){
-            System.out.printf("Loop %d\n", count);
+        for (int Index = 0;Index < 5;Index++){
+            System.out.printf("Loop %d\n", Index);
 
         }
     }
