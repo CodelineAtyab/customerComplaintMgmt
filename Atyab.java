@@ -4,9 +4,9 @@ public class Atyab {
             System.out.println(currArg);
         }
 
-        char[] alphabets = new char[]{'a', 'b', 'c', 'd', 'e', 'f'};
-        for (char currAlpha: alphabets) {
-            System.out.println(currAlpha);
+        String alphabets = "abcdefghijklmnopqrstuvwxyz";
+        for (int index=0; index < alphabets.length(); index++) {
+            System.out.println(alphabets.charAt(index));
         }
     }
 }
