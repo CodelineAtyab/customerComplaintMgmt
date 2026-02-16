@@ -38,21 +38,8 @@ public class Dashboard {
             }
             else {
                 System.out.println("Are you out of your mind ? Select 1 or 0");
+                System.out.println("Are you blind or what");
             }
         }
-
-
-//        for (int currentFeedbackCount = 0; currentFeedbackCount <  customerFeedbacks.length; currentFeedbackCount++) {
-//            System.out.print("Please enter your comment: ");
-//            customerFeedbacks[currentFeedbackCount] = inputBuffObj.nextLine();
-//        }
-//
-//        // Process
-//        // Output
-//        for (int currentFeedbackCount = 0; currentFeedbackCount <  customerFeedbacks.length; currentFeedbackCount++) {
-//            // Iteration
-//            System.out.printf("The value of box %d is: %s%n", currentFeedbackCount, customerFeedbacks[currentFeedbackCount]);
-//        }
-
     }
 }
