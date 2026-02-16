@@ -6,7 +6,6 @@ public class Atyab {
 
         for (int theCounter = 0;theCounter < 5;theCounter++){
             System.out.printf("Loop %d\n", theCounter);
-
         }
 
         String alphabets = "abcdefghijklmnopqrstuvwxyz";
