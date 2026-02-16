@@ -3,5 +3,10 @@ public class Atyab {
         for (String currArg: args) {
             System.out.println(currArg);
         }
+
+        char[] alphabets = new char[]{'a', 'b', 'c', 'd', 'e', 'f'};
+        for (char currAlpha: alphabets) {
+            System.out.println(currAlpha);
+        }
     }
 }
